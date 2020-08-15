@@ -1,7 +1,9 @@
 # Smart Procurement
 
-    <!-- The Narrative Setup -->
-    1. Compare "Smart" technologies to previous historical technologies
+` <!-- The Narrative Setup --> `
+    
+  
+1. Compare "Smart" technologies to previous historical technologies
         slide: 
         working title: Electricity as a "Competitive Advantage"
         let’s take electricity and power generation. 
@@ -14,8 +16,8 @@
         By the 1930’s however we had the national grid, and it was just something we used.
         It was no longer considered important but a cost of doing something. (Cost of Doing Business, CODB)
 
-    <!-- Dispell their currently held expectations -->
-    2. IT spending adds to business value == IT reduces cost through automation 
+   ` <!-- Dispell their currently held expectations --> `
+2. IT spending adds to business value == IT reduces cost through automation 
         slide: 
         working title: MYTH 
         Majority of spending is to keep up with competitors and adds no new value What was going on was an IT arms race,
@@ -23,8 +25,8 @@
         The majority of IT spend was on “essential” systems which competitors had .. it was a cost of doing business, a cost to compete.
 /** CITATION: Paul Strassmaan */
 
-    <!-- Smart Procurement: Two Angles; IT & Core Business functions -->
-    3. Procurement Decisions
+    `<!-- Smart Procurement: Two Angles; IT & Core Business functions -->`
+3. Procurement Decisions
     Cost of Competitive Advantage  (CoCCA) and (CODB) doing business That our industry is in a constant move from CA to CODB and most IT today is CODB - very little is CA. This also means ...
         slide: 
         working title: Midway Point Takeways
